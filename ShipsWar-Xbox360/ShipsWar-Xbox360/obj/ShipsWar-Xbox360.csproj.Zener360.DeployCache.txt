@@ -1,0 +1,131 @@
+ab1899efe7754e6684a700d9501f57da
+0
+Zener360
+D:\Project\ShipsWar-Xbox360\ShipsWar-Xbox360\bin\Xbox 360\Debug\
+128725184800000000
+D:\Project\ShipsWar-Xbox360\ShipsWar-Xbox360\GameThumbnail.png
+2008-11-30T11:23:24.6718750Z
+D:\Project\ShipsWar-Xbox360\ShipsWar-Xbox360\bin\Xbox 360\Debug\ShipsWar-Xbox360.exe
+2008-11-30T11:46:30.9375000Z
+D:\Project\ShipsWar-Xbox360\ShipsWar-Xbox360\bin\Xbox 360\Debug\Content\res\effects.xnb
+2008-11-30T11:31:53.9218750Z
+D:\Project\ShipsWar-Xbox360\ShipsWar-Xbox360\bin\Xbox 360\Debug\Content\res\Sound\Derrota.xnb
+2008-11-30T11:32:22.5937500Z
+D:\Project\ShipsWar-Xbox360\ShipsWar-Xbox360\bin\Xbox 360\Debug\Content\res\Sound\Escut.xnb
+2008-11-30T11:32:22.9531250Z
+D:\Project\ShipsWar-Xbox360\ShipsWar-Xbox360\bin\Xbox 360\Debug\Content\res\Sound\Estadistiques.xnb
+2008-11-30T11:32:35.8750000Z
+D:\Project\ShipsWar-Xbox360\ShipsWar-Xbox360\bin\Xbox 360\Debug\Content\res\Sound\Ingame 2.xnb
+2008-11-30T11:33:14.6875000Z
+D:\Project\ShipsWar-Xbox360\ShipsWar-Xbox360\bin\Xbox 360\Debug\Content\res\Sound\Menu Principal 2.xnb
+2008-11-30T11:33:28.7500000Z
+D:\Project\ShipsWar-Xbox360\ShipsWar-Xbox360\bin\Xbox 360\Debug\Content\res\Sound\Ok.xnb
+2008-11-30T11:33:29.1250000Z
+D:\Project\ShipsWar-Xbox360\ShipsWar-Xbox360\bin\Xbox 360\Debug\Content\res\Sound\Option.xnb
+2008-11-30T11:33:29.3906250Z
+D:\Project\ShipsWar-Xbox360\ShipsWar-Xbox360\bin\Xbox 360\Debug\Content\res\Sound\Planet Blast.xnb
+2008-11-30T11:33:30.4218750Z
+D:\Project\ShipsWar-Xbox360\ShipsWar-Xbox360\bin\Xbox 360\Debug\Content\res\Sound\Sound Bank.xsb
+2008-11-30T11:34:35.7656250Z
+D:\Project\ShipsWar-Xbox360\ShipsWar-Xbox360\bin\Xbox 360\Debug\Content\res\Sound\Take Off.xnb
+2008-11-30T11:33:30.7656250Z
+D:\Project\ShipsWar-Xbox360\ShipsWar-Xbox360\bin\Xbox 360\Debug\Content\res\Sound\Victoria 2.xnb
+2008-11-30T11:33:31.6718750Z
+D:\Project\ShipsWar-Xbox360\ShipsWar-Xbox360\bin\Xbox 360\Debug\Content\res\Sound\Wave Bank.xwb
+2008-11-30T11:34:35.7500000Z
+D:\Project\ShipsWar-Xbox360\ShipsWar-Xbox360\bin\Xbox 360\Debug\Content\res\Sound\WavTest.xgs
+2008-11-30T11:33:32.0312500Z
+D:\Project\ShipsWar-Xbox360\ShipsWar-Xbox360\bin\Xbox 360\Debug\Content\res\Sound\Win\Sound Bank.xsb
+2008-11-29T20:19:17.3750000Z
+D:\Project\ShipsWar-Xbox360\ShipsWar-Xbox360\bin\Xbox 360\Debug\Content\res\Sound\Win\WavTest.xgs
+2008-11-29T20:18:50.6875000Z
+D:\Project\ShipsWar-Xbox360\ShipsWar-Xbox360\bin\Xbox 360\Debug\Content\res\Images\debris0.xnb
+2008-11-30T11:31:54.4843750Z
+D:\Project\ShipsWar-Xbox360\ShipsWar-Xbox360\bin\Xbox 360\Debug\Content\res\Images\debris1.xnb
+2008-11-30T11:31:54.5468750Z
+D:\Project\ShipsWar-Xbox360\ShipsWar-Xbox360\bin\Xbox 360\Debug\Content\res\Images\debris2.xnb
+2008-11-30T11:31:54.6093750Z
+D:\Project\ShipsWar-Xbox360\ShipsWar-Xbox360\bin\Xbox 360\Debug\Content\res\Images\debris3.xnb
+2008-11-30T11:31:54.6718750Z
+D:\Project\ShipsWar-Xbox360\ShipsWar-Xbox360\bin\Xbox 360\Debug\Content\res\Images\explosion.xnb
+2008-11-30T11:31:54.8125000Z
+D:\Project\ShipsWar-Xbox360\ShipsWar-Xbox360\bin\Xbox 360\Debug\Content\res\Images\hoop.xnb
+2008-11-30T11:31:55.1250000Z
+D:\Project\ShipsWar-Xbox360\ShipsWar-Xbox360\bin\Xbox 360\Debug\Content\res\Images\icon.xnb
+2008-11-30T11:31:55.2500000Z
+D:\Project\ShipsWar-Xbox360\ShipsWar-Xbox360\bin\Xbox 360\Debug\Content\res\Images\smallexplosion.xnb
+2008-11-30T11:31:55.3437500Z
+D:\Project\ShipsWar-Xbox360\ShipsWar-Xbox360\bin\Xbox 360\Debug\Content\res\Images\Space\background0.xnb
+2008-11-30T11:32:16.2500000Z
+D:\Project\ShipsWar-Xbox360\ShipsWar-Xbox360\bin\Xbox 360\Debug\Content\res\Images\Space\background1.xnb
+2008-11-30T11:32:19.2656250Z
+D:\Project\ShipsWar-Xbox360\ShipsWar-Xbox360\bin\Xbox 360\Debug\Content\res\Images\Space\background2.xnb
+2008-11-30T11:32:21.7500000Z
+D:\Project\ShipsWar-Xbox360\ShipsWar-Xbox360\bin\Xbox 360\Debug\Content\res\Images\Planets\0.xnb
+2008-11-30T11:32:09.4375000Z
+D:\Project\ShipsWar-Xbox360\ShipsWar-Xbox360\bin\Xbox 360\Debug\Content\res\Images\Planets\1.xnb
+2008-11-30T11:32:10.0156250Z
+D:\Project\ShipsWar-Xbox360\ShipsWar-Xbox360\bin\Xbox 360\Debug\Content\res\Images\Planets\2.xnb
+2008-11-30T11:32:10.5937500Z
+D:\Project\ShipsWar-Xbox360\ShipsWar-Xbox360\bin\Xbox 360\Debug\Content\res\Images\Planets\3.xnb
+2008-11-30T11:32:11.1250000Z
+D:\Project\ShipsWar-Xbox360\ShipsWar-Xbox360\bin\Xbox 360\Debug\Content\res\Images\Planets\4.xnb
+2008-11-30T11:32:11.6406250Z
+D:\Project\ShipsWar-Xbox360\ShipsWar-Xbox360\bin\Xbox 360\Debug\Content\res\Images\Planets\5.xnb
+2008-11-30T11:32:12.1562500Z
+D:\Project\ShipsWar-Xbox360\ShipsWar-Xbox360\bin\Xbox 360\Debug\Content\res\Images\Planets\p2.xnb
+2008-11-30T11:32:13.3437500Z
+D:\Project\ShipsWar-Xbox360\ShipsWar-Xbox360\bin\Xbox 360\Debug\Content\res\Images\Menus\a-button.xnb
+2008-11-30T11:31:56.9687500Z
+D:\Project\ShipsWar-Xbox360\ShipsWar-Xbox360\bin\Xbox 360\Debug\Content\res\Images\Menus\b-button.xnb
+2008-11-30T11:31:57.0312500Z
+D:\Project\ShipsWar-Xbox360\ShipsWar-Xbox360\bin\Xbox 360\Debug\Content\res\Images\Menus\backspace.xnb
+2008-11-30T11:31:59.2656250Z
+D:\Project\ShipsWar-Xbox360\ShipsWar-Xbox360\bin\Xbox 360\Debug\Content\res\Images\Menus\base.xnb
+2008-11-30T11:32:01.7343750Z
+D:\Project\ShipsWar-Xbox360\ShipsWar-Xbox360\bin\Xbox 360\Debug\Content\res\Images\Menus\controller.xnb
+2008-11-30T11:32:02.8750000Z
+D:\Project\ShipsWar-Xbox360\ShipsWar-Xbox360\bin\Xbox 360\Debug\Content\res\Images\Menus\defeatplanet.xnb
+2008-11-30T11:32:03.4062500Z
+D:\Project\ShipsWar-Xbox360\ShipsWar-Xbox360\bin\Xbox 360\Debug\Content\res\Images\Menus\defeattext.xnb
+2008-11-30T11:32:03.7187500Z
+D:\Project\ShipsWar-Xbox360\ShipsWar-Xbox360\bin\Xbox 360\Debug\Content\res\Images\Menus\getready.xnb
+2008-11-30T11:32:04.1093750Z
+D:\Project\ShipsWar-Xbox360\ShipsWar-Xbox360\bin\Xbox 360\Debug\Content\res\Images\Menus\keyboardA.xnb
+2008-11-30T11:32:04.9531250Z
+D:\Project\ShipsWar-Xbox360\ShipsWar-Xbox360\bin\Xbox 360\Debug\Content\res\Images\Menus\keyboardB.xnb
+2008-11-30T11:32:05.7968750Z
+D:\Project\ShipsWar-Xbox360\ShipsWar-Xbox360\bin\Xbox 360\Debug\Content\res\Images\Menus\labelbox.xnb
+2008-11-30T11:32:08.9687500Z
+D:\Project\ShipsWar-Xbox360\ShipsWar-Xbox360\bin\Xbox 360\Debug\Content\res\Images\Menus\labelboxalpha.xnb
+2008-11-30T11:32:05.8750000Z
+D:\Project\ShipsWar-Xbox360\ShipsWar-Xbox360\bin\Xbox 360\Debug\Content\res\Images\Menus\labelboxwhite.xnb
+2008-11-30T11:32:05.9531250Z
+D:\Project\ShipsWar-Xbox360\ShipsWar-Xbox360\bin\Xbox 360\Debug\Content\res\Images\Menus\left-arrow.xnb
+2008-11-30T11:32:06.0468750Z
+D:\Project\ShipsWar-Xbox360\ShipsWar-Xbox360\bin\Xbox 360\Debug\Content\res\Images\Menus\logo.xnb
+2008-11-30T11:32:06.7343750Z
+D:\Project\ShipsWar-Xbox360\ShipsWar-Xbox360\bin\Xbox 360\Debug\Content\res\Images\Menus\mouse.xnb
+2008-11-30T11:32:07.6875000Z
+D:\Project\ShipsWar-Xbox360\ShipsWar-Xbox360\bin\Xbox 360\Debug\Content\res\Images\Menus\right-arrow.xnb
+2008-11-30T11:32:07.8125000Z
+D:\Project\ShipsWar-Xbox360\ShipsWar-Xbox360\bin\Xbox 360\Debug\Content\res\Images\Menus\victoryplanet.xnb
+2008-11-30T11:32:08.4687500Z
+D:\Project\ShipsWar-Xbox360\ShipsWar-Xbox360\bin\Xbox 360\Debug\Content\res\Images\Menus\victorytext.xnb
+2008-11-30T11:32:08.8906250Z
+D:\Project\ShipsWar-Xbox360\ShipsWar-Xbox360\bin\Xbox 360\Debug\Content\res\Images\Hud\bar.xnb
+2008-11-30T11:31:55.4062500Z
+D:\Project\ShipsWar-Xbox360\ShipsWar-Xbox360\bin\Xbox 360\Debug\Content\res\Images\Hud\cursor.xnb
+2008-11-30T11:31:55.5156250Z
+D:\Project\ShipsWar-Xbox360\ShipsWar-Xbox360\bin\Xbox 360\Debug\Content\res\Images\Hud\engine_tech.xnb
+2008-11-30T11:31:55.8281250Z
+D:\Project\ShipsWar-Xbox360\ShipsWar-Xbox360\bin\Xbox 360\Debug\Content\res\Images\Hud\factory_tech.xnb
+2008-11-30T11:31:56.3437500Z
+D:\Project\ShipsWar-Xbox360\ShipsWar-Xbox360\bin\Xbox 360\Debug\Content\res\Images\Hud\overcursor.xnb
+2008-11-30T11:31:56.4531250Z
+D:\Project\ShipsWar-Xbox360\ShipsWar-Xbox360\bin\Xbox 360\Debug\Content\res\Images\Hud\planetHud.xnb
+2008-11-30T11:31:56.5625000Z
+D:\Project\ShipsWar-Xbox360\ShipsWar-Xbox360\bin\Xbox 360\Debug\Content\res\Images\Hud\weapon_tech.xnb
+2008-11-30T11:31:56.8906250Z
+D:\Project\ShipsWar-Xbox360\ShipsWar-Xbox360\bin\Xbox 360\Debug\Content\res\Fonts\Courier New.xnb
+2008-11-30T11:31:54.3906250Z

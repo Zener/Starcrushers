@@ -1,0 +1,61 @@
+Content\res\effects.xnb
+Content\res\Fonts\Courier New.xnb
+Content\res\Images\debris0.xnb
+Content\res\Images\debris1.xnb
+Content\res\Images\debris2.xnb
+Content\res\Images\debris3.xnb
+Content\res\Images\explosion.xnb
+Content\res\Images\hoop.xnb
+Content\res\Images\icon.xnb
+Content\res\Images\smallexplosion.xnb
+Content\res\Images\Hud\bar.xnb
+Content\res\Images\Hud\cursor.xnb
+Content\res\Images\Hud\engine_tech.xnb
+Content\res\Images\Hud\factory_tech.xnb
+Content\res\Images\Hud\overcursor.xnb
+Content\res\Images\Hud\planetHud.xnb
+Content\res\Images\Hud\weapon_tech.xnb
+Content\res\Images\Menus\a-button.xnb
+Content\res\Images\Menus\b-button.xnb
+Content\res\Images\Menus\backspace.xnb
+Content\res\Images\Menus\base.xnb
+Content\res\Images\Menus\controller.xnb
+Content\res\Images\Menus\defeatplanet.xnb
+Content\res\Images\Menus\defeattext.xnb
+Content\res\Images\Menus\getready.xnb
+Content\res\Images\Menus\keyboardA.xnb
+Content\res\Images\Menus\keyboardB.xnb
+Content\res\Images\Menus\labelboxalpha.xnb
+Content\res\Images\Menus\labelboxwhite.xnb
+Content\res\Images\Menus\left-arrow.xnb
+Content\res\Images\Menus\logo.xnb
+Content\res\Images\Menus\mouse.xnb
+Content\res\Images\Menus\right-arrow.xnb
+Content\res\Images\Menus\victoryplanet.xnb
+Content\res\Images\Menus\victorytext.xnb
+Content\res\Images\Menus\labelbox.xnb
+Content\res\Images\Planets\0.xnb
+Content\res\Images\Planets\1.xnb
+Content\res\Images\Planets\2.xnb
+Content\res\Images\Planets\3.xnb
+Content\res\Images\Planets\4.xnb
+Content\res\Images\Planets\5.xnb
+Content\res\Images\Planets\p2.xnb
+Content\res\Images\Space\background0.xnb
+Content\res\Images\Space\background1.xnb
+Content\res\Images\Space\background2.xnb
+Content\res\Sound\Derrota.xnb
+Content\res\Sound\Escut.xnb
+Content\res\Sound\Estadistiques.xnb
+Content\res\Sound\Ingame 2.xnb
+Content\res\Sound\Menu Principal 2.xnb
+Content\res\Sound\Ok.xnb
+Content\res\Sound\Option.xnb
+Content\res\Sound\Planet Blast.xnb
+Content\res\Sound\Take Off.xnb
+Content\res\Sound\Victoria 2.xnb
+Content\res\Sound\WavTest.xgs
+Content\res\Sound\Wave Bank.xwb
+Content\res\Sound\Sound Bank.xsb
+Content\res\Sound\Win\Sound Bank.xsb
+Content\res\Sound\Win\WavTest.xgs

@@ -1,0 +1,4 @@
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\Content\obj\x86\Debug\res\Sound\WavTest.xml
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\Content\obj\x86\Debug\res\Sound\WavTest.xml

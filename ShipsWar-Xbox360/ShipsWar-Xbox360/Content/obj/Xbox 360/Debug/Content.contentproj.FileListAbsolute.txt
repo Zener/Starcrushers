@@ -1,0 +1,2 @@
+D:\Project\ShipsWar-Xbox360\ShipsWar-Xbox360\Content\obj\Xbox 360\Debug\ResolveAssemblyReference.cache
+D:\Project\ShipsWar-Xbox360\ShipsWar-Xbox360\Content\obj\Xbox 360\Debug\res\Sound\WavTest.xml

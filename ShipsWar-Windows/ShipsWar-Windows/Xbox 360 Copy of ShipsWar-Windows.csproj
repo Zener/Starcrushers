@@ -1,0 +1,488 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="3.5">
+  <PropertyGroup>
+    <ProjectGuid>{989e9782-e2b8-4418-9ab9-d0f0af1820f1}</ProjectGuid>
+    <ProjectTypeGuids>{2DF5C3F4-5A5F-47a9-8E94-23B4456F55E2};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">Xbox 360</Platform>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ShipsWar_Windows</RootNamespace>
+    <AssemblyName>ShipsWar-Windows</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <XnaFrameworkVersion>v3.0</XnaFrameworkVersion>
+    <XnaPlatform>Xbox 360</XnaPlatform>
+    <XnaCrossPlatformGroupID>e04ec7fc-36e2-474c-893c-8b2f61768e7d</XnaCrossPlatformGroupID>
+    <ApplicationIcon>Game.ico</ApplicationIcon>
+    <Thumbnail>GameThumbnail.png</Thumbnail>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|Xbox 360' ">
+    <OutputPath>bin\Xbox 360\Debug</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoStdLib>true</NoStdLib>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <DefineConstants>DEBUG;TRACE;XBOX;XBOX360</DefineConstants>
+    <XnaCompressContent>true</XnaCompressContent>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|Xbox 360' ">
+    <OutputPath>bin\Xbox 360\Release</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoStdLib>true</NoStdLib>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <DefineConstants>TRACE;XBOX;XBOX360</DefineConstants>
+    <XnaCompressContent>true</XnaCompressContent>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="Entity.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Game1.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="GameHUD.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="GameStates\ConfigurePlayers.cs" />
+    <Compile Include="GameStates\Credits.cs" />
+    <Compile Include="GameStates\GameState.cs" />
+    <Compile Include="GameStates\MainMenu.cs" />
+    <Compile Include="GameStates\Options.cs" />
+    <Compile Include="GameStates\PauseMenu.cs" />
+    <Compile Include="GameStates\PopUp.cs" />
+    <Compile Include="GameStates\Results.cs" />
+    <Compile Include="GameStates\SelectPlayers.cs" />
+    <Compile Include="GameStates\SelectUniverseSize.cs" />
+    <Compile Include="GameStates\Splash.cs" />
+    <Compile Include="GameStates\Status.cs" />
+    <Compile Include="GameStates\War.cs" />
+    <Compile Include="GameVars.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Input.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="MenuBackgroundRender.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Menus\ConfigScreen.cs" />
+    <Compile Include="Menus\Menu.cs" />
+    <Compile Include="Menus\TextScreen.cs" />
+    <Compile Include="Particle.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Planet.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Player.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Point3D.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Program.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <Compile Include="Ship.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="SoundManager.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Statistics.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Universe.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Util.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Content\obj\Content.contentproj.XactOutput.FileList.txt" />
+    <Content Include="Content\obj\x86\Debug\Content.contentproj.FileListAbsolute.txt" />
+    <Content Include="Content\obj\x86\Debug\ContentPipeline.xml" />
+    <Content Include="Content\obj\x86\Debug\res\Sound\WavTest.xml" />
+    <Content Include="Content\res\Fonts\eurostile.png" />
+    <Content Include="Content\res\Images\debris0.png" />
+    <Content Include="Content\res\Images\debris1.png" />
+    <Content Include="Content\res\Images\debris2.png" />
+    <Content Include="Content\res\Images\debris3.png" />
+    <Content Include="Content\res\Images\explosion.png" />
+    <Content Include="Content\res\Images\hoop.png" />
+    <Content Include="Content\res\Images\Hud\bar.png" />
+    <Content Include="Content\res\Images\Hud\cursor.png" />
+    <Content Include="Content\res\Images\Hud\engine_tech.png" />
+    <Content Include="Content\res\Images\Hud\factory_tech.png" />
+    <Content Include="Content\res\Images\Hud\overcursor.png" />
+    <Content Include="Content\res\Images\Hud\planetHud.png" />
+    <Content Include="Content\res\Images\Hud\weapon_tech.png" />
+    <Content Include="Content\res\Images\icon.bmp" />
+    <Content Include="Content\res\Images\icon.ico" />
+    <Content Include="Content\res\Images\Menus\a-button.png" />
+    <Content Include="Content\res\Images\Menus\b-button.png" />
+    <Content Include="Content\res\Images\Menus\backspace.jpg" />
+    <Content Include="Content\res\Images\Menus\base.jpg" />
+    <Content Include="Content\res\Images\Menus\controller.png" />
+    <Content Include="Content\res\Images\Menus\defeatplanet.png" />
+    <Content Include="Content\res\Images\Menus\defeattext.png" />
+    <Content Include="Content\res\Images\Menus\getready.png" />
+    <Content Include="Content\res\Images\Menus\keyboardA.png" />
+    <Content Include="Content\res\Images\Menus\keyboardB.png" />
+    <Content Include="Content\res\Images\Menus\labelboxalpha.png" />
+    <Content Include="Content\res\Images\Menus\labelboxwhite.png" />
+    <Content Include="Content\res\Images\Menus\left-arrow.png" />
+    <Content Include="Content\res\Images\Menus\logo.png" />
+    <Content Include="Content\res\Images\Menus\mouse.png" />
+    <Content Include="Content\res\Images\Menus\right-arrow.png" />
+    <Content Include="Content\res\Images\Menus\victoryplanet.png" />
+    <Content Include="Content\res\Images\Menus\victorytext.png" />
+    <Content Include="Content\res\Images\Planets\0.jpg" />
+    <Content Include="Content\res\Images\Planets\1.jpg" />
+    <Content Include="Content\res\Images\Planets\2.jpg" />
+    <Content Include="Content\res\Images\Planets\3.jpg" />
+    <Content Include="Content\res\Images\Planets\4.jpg" />
+    <Content Include="Content\res\Images\Planets\5.jpg" />
+    <Content Include="Content\res\Images\Planets\p2.jpg" />
+    <Content Include="Content\res\Images\smallexplosion.png" />
+    <Content Include="Content\res\Images\Space\background0.jpg" />
+    <Content Include="Content\res\Images\Space\background1.jpg" />
+    <Content Include="Content\res\Images\Space\background2.jpg" />
+    <Content Include="Content\res\Sound\Derrota.wav" />
+    <Content Include="Content\res\Sound\Escut.wav" />
+    <Content Include="Content\res\Sound\Estadistiques.wav" />
+    <Content Include="Content\res\Sound\Ingame 2.wav" />
+    <Content Include="Content\res\Sound\Menu Principal 2.wav" />
+    <Content Include="Content\res\Sound\Ok.wav" />
+    <Content Include="Content\res\Sound\Option.wav" />
+    <Content Include="Content\res\Sound\Planet Blast.wav" />
+    <Content Include="Content\res\Sound\Take Off.wav" />
+    <Content Include="Content\res\Sound\Victoria 2.wav" />
+    <Content Include="Game.ico" />
+    <Content Include="GameThumbnail.png" />
+    <Content Include="res\Fonts\eurostile.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="res\Images\debris0.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="res\Images\debris1.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="res\Images\debris2.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="res\Images\debris3.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="res\Images\explosion.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="res\Images\hoop.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="res\Images\Hud\bar.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="res\Images\Hud\cursor.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="res\Images\Hud\engine_tech.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="res\Images\Hud\factory_tech.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="res\Images\Hud\overcursor.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="res\Images\Hud\planetHud.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="res\Images\Hud\weapon_tech.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="res\Images\icon.bmp">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="res\Images\icon.ico" />
+    <Content Include="res\Images\Menus\a-button.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="res\Images\Menus\b-button.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="res\Images\Menus\backspace.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="res\Images\Menus\base.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="res\Images\Menus\controller.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="res\Images\Menus\defeatplanet.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="res\Images\Menus\defeattext.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="res\Images\Menus\getready.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="res\Images\Menus\keyboardA.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="res\Images\Menus\keyboardB.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="res\Images\Menus\labelboxalpha.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="res\Images\Menus\labelboxwhite.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="res\Images\Menus\left-arrow.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="res\Images\Menus\logo.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="res\Images\Menus\mouse.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="res\Images\Menus\right-arrow.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="res\Images\Menus\victoryplanet.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="res\Images\Menus\victorytext.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="res\Images\Planets\0.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="res\Images\Planets\1.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="res\Images\Planets\2.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="res\Images\Planets\3.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="res\Images\Planets\4.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="res\Images\Planets\5.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="res\Images\Planets\p2.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="res\Images\smallexplosion.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="res\Images\Space\background0.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="res\Images\Space\background1.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="res\Images\Space\background2.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="res\Sound\Derrota.wav">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="res\Sound\Escut.wav">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="res\Sound\Estadistiques.wav">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="res\Sound\Ingame 2.wav">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="res\Sound\Menu Principal 2.wav">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="res\Sound\Ok.wav">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="res\Sound\Option.wav">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="res\Sound\Planet Blast.wav">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="res\Sound\Take Off.wav">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="res\Sound\Victoria 2.wav">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <NestedContentProject Include="Content\Content.contentproj">
+      <Project>b901b6de-16e7-4b91-a3f2-2868881f5e63</Project>
+      <Visible>False</Visible>
+    </NestedContentProject>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Xna.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>Microsoft XNA Framework Redistributable 3.0</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Content\Content.contentproj" />
+    <None Include="Content\res\effects.fx" />
+    <None Include="Content\res\Fonts\Courier New.spritefont" />
+    <None Include="Content\res\Images\Menus\labelbox.tga" />
+    <None Include="Content\res\Sound\Wave Bank.xwb" />
+    <None Include="Content\res\Sound\Win\Sound Bank.xsb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Content\res\Sound\Win\WavTest.xgs">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="res\effects.fx">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="res\Images\Menus\labelbox.tga">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="res\Sound\Wave Bank.xwb">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="res\Sound\WavTest.xap">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="res\Sound\WavTest.xgs">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="res\Sound\Win\WavTest.xgs">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="WavTest.xap" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Content\bin\x86\Debug\" />
+    <Folder Include="Content\bin\x86\Release\" />
+    <Folder Include="Content\obj\x86\Debug\TempPE\" />
+    <Folder Include="Content\obj\x86\Release\TempPE\" />
+    <Folder Include="Content\res\Sound\Xbox\" />
+    <Folder Include="res\Sound\Xbox\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Xna.Framework">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Microsoft.Xna.Framework.Game">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="mscorlib">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Core">
+      <Private>False</Private>
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <Private>False</Private>
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\XNA Game Studio\Microsoft.Xna.GameStudio.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

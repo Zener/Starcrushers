@@ -1,0 +1,372 @@
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\res\Fonts\eurostile.png
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\res\Images\debris0.png
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\res\Images\debris1.png
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\res\Images\debris2.png
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\res\Images\debris3.png
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\res\Images\explosion.png
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\res\Images\hoop.png
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\res\Images\Hud\bar.png
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\res\Images\Hud\cursor.png
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\res\Images\Hud\engine_tech.png
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\res\Images\Hud\factory_tech.png
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\res\Images\Hud\overcursor.png
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\res\Images\Hud\planetHud.png
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\res\Images\Hud\weapon_tech.png
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\res\Images\icon.bmp
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\res\Images\Menus\a-button.png
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\res\Images\Menus\b-button.png
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\res\Images\Menus\backspace.jpg
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\res\Images\Menus\base.jpg
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\res\Images\Menus\controller.png
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\res\Images\Menus\defeatplanet.png
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\res\Images\Menus\defeattext.png
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\res\Images\Menus\getready.png
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\res\Images\Menus\keyboardA.png
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\res\Images\Menus\keyboardB.png
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\res\Images\Menus\labelboxalpha.png
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\res\Images\Menus\labelboxwhite.png
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\res\Images\Menus\left-arrow.png
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\res\Images\Menus\logo.png
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\res\Images\Menus\mouse.png
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\res\Images\Menus\right-arrow.png
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\res\Images\Menus\victoryplanet.png
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\res\Images\Menus\victorytext.png
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\res\Images\Planets\0.jpg
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\res\Images\Planets\1.jpg
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\res\Images\Planets\2.jpg
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\res\Images\Planets\3.jpg
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\res\Images\Planets\4.jpg
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\res\Images\Planets\5.jpg
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\res\Images\Planets\p2.jpg
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\res\Images\smallexplosion.png
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\res\Images\Space\background0.jpg
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\res\Images\Space\background1.jpg
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\res\Images\Space\background2.jpg
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\res\Sound\Derrota.wav
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\res\Sound\Escut.wav
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\res\Sound\Estadistiques.wav
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\res\Sound\Ingame 2.wav
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\res\Sound\Menu Principal 2.wav
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\res\Sound\Ok.wav
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\res\Sound\Option.wav
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\res\Sound\Planet Blast.wav
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\res\Sound\Take Off.wav
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\res\Sound\Victoria 2.wav
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\res\effects.fx
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\res\Images\Menus\labelbox.tga
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\res\Sound\Wave Bank.xwb
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\res\Sound\WavTest.xap
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\res\Sound\WavTest.xgs
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\res\Sound\Win\WavTest.xgs
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\obj\x86\Debug\ShipsWar_Windows.Properties.Resources.resources
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\obj\x86\Debug\ShipsWar-Windows.csproj.GenerateResource.Cache
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\obj\x86\Debug\ShipsWar-Windows.exe
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\obj\x86\Debug\ShipsWar-Windows.pdb
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\effects.xnb
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Menus\labelbox.xnb
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Fonts\eurostile.xnb
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\debris0.xnb
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\debris1.xnb
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\debris2.xnb
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\debris3.xnb
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\explosion.xnb
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\hoop.xnb
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Hud\bar.xnb
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Hud\cursor.xnb
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Hud\engine_tech.xnb
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Hud\factory_tech.xnb
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Hud\overcursor.xnb
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Hud\planetHud.xnb
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Hud\weapon_tech.xnb
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\icon.xnb
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Menus\a-button.xnb
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Menus\b-button.xnb
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Menus\backspace.xnb
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Menus\base.xnb
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Menus\controller.xnb
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Menus\defeatplanet.xnb
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Menus\defeattext.xnb
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Menus\getready.xnb
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Menus\keyboardA.xnb
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Menus\keyboardB.xnb
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Menus\labelboxalpha.xnb
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Menus\labelboxwhite.xnb
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Menus\left-arrow.xnb
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Menus\logo.xnb
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Menus\mouse.xnb
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Menus\right-arrow.xnb
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Menus\victoryplanet.xnb
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Menus\victorytext.xnb
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Planets\0.xnb
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Planets\1.xnb
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Planets\2.xnb
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Planets\3.xnb
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Planets\4.xnb
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Planets\5.xnb
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Planets\p2.xnb
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\smallexplosion.xnb
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Space\background0.xnb
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Space\background1.xnb
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Space\background2.xnb
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Sound\Derrota.xnb
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Sound\Escut.xnb
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Sound\Estadistiques.xnb
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Sound\Ingame 2.xnb
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Sound\Menu Principal 2.xnb
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Sound\Ok.xnb
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Sound\Option.xnb
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Sound\Planet Blast.xnb
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Sound\Take Off.xnb
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Sound\Victoria 2.xnb
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Sound\WavTest.xgs
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Sound\Sound Bank.xsb
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Wave Bank.xwb
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\effects.fx
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Menus\labelbox.tga
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Sound\WavTest.xap
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Fonts\eurostile.png
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\debris0.png
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\debris1.png
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\debris2.png
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\debris3.png
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\explosion.png
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\hoop.png
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Hud\bar.png
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Hud\cursor.png
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Hud\engine_tech.png
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Hud\factory_tech.png
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Hud\overcursor.png
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Hud\planetHud.png
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Hud\weapon_tech.png
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\icon.bmp
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Menus\a-button.png
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Menus\b-button.png
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Menus\backspace.jpg
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Menus\base.jpg
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Menus\controller.png
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Menus\defeatplanet.png
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Menus\defeattext.png
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Menus\getready.png
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Menus\keyboardA.png
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Menus\keyboardB.png
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Menus\labelboxalpha.png
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Menus\labelboxwhite.png
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Menus\left-arrow.png
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Menus\logo.png
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Menus\mouse.png
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Menus\right-arrow.png
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Menus\victoryplanet.png
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Menus\victorytext.png
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Planets\0.jpg
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Planets\1.jpg
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Planets\2.jpg
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Planets\3.jpg
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Planets\4.jpg
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Planets\5.jpg
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Planets\p2.jpg
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\smallexplosion.png
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Space\background0.jpg
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Space\background1.jpg
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Space\background2.jpg
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Sound\Derrota.wav
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Sound\Escut.wav
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Sound\Estadistiques.wav
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Sound\Ingame 2.wav
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Sound\Menu Principal 2.wav
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Sound\Ok.wav
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Sound\Option.wav
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Sound\Planet Blast.wav
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Sound\Take Off.wav
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Sound\Victoria 2.wav
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\ShipsWar-Windows.exe
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\ShipsWar-Windows.pdb
+C:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Fonts\Courier New.xnb
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\obj\x86\Debug\ShipsWar-Windows.exe
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\obj\x86\Debug\ShipsWar-Windows.pdb
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\res\Fonts\eurostile.png
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\res\Images\debris0.png
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\res\Images\debris1.png
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\res\Images\debris2.png
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\res\Images\debris3.png
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\res\Images\explosion.png
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\res\Images\hoop.png
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\res\Images\Hud\bar.png
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\res\Images\Hud\cursor.png
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\res\Images\Hud\engine_tech.png
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\res\Images\Hud\factory_tech.png
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\res\Images\Hud\overcursor.png
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\res\Images\Hud\planetHud.png
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\res\Images\Hud\weapon_tech.png
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\res\Images\icon.bmp
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\res\Images\Menus\a-button.png
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\res\Images\Menus\b-button.png
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\res\Images\Menus\backspace.jpg
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\res\Images\Menus\base.jpg
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\res\Images\Menus\controller.png
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\res\Images\Menus\defeatplanet.png
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\res\Images\Menus\defeattext.png
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\res\Images\Menus\getready.png
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\res\Images\Menus\keyboardA.png
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\res\Images\Menus\keyboardB.png
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\res\Images\Menus\labelboxalpha.png
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\res\Images\Menus\labelboxwhite.png
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\res\Images\Menus\left-arrow.png
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\res\Images\Menus\logo.png
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\res\Images\Menus\mouse.png
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\res\Images\Menus\right-arrow.png
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\res\Images\Menus\victoryplanet.png
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\res\Images\Menus\victorytext.png
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\res\Images\Planets\0.jpg
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\res\Images\Planets\1.jpg
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\res\Images\Planets\2.jpg
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\res\Images\Planets\3.jpg
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\res\Images\Planets\4.jpg
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\res\Images\Planets\5.jpg
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\res\Images\Planets\p2.jpg
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\res\Images\smallexplosion.png
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\res\Images\Space\background0.jpg
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\res\Images\Space\background1.jpg
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\res\Images\Space\background2.jpg
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\res\Sound\Derrota.wav
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\res\Sound\Escut.wav
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\res\Sound\Estadistiques.wav
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\res\Sound\Ingame 2.wav
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\res\Sound\Menu Principal 2.wav
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\res\Sound\Ok.wav
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\res\Sound\Option.wav
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\res\Sound\Planet Blast.wav
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\res\Sound\Take Off.wav
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\res\Sound\Victoria 2.wav
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\res\effects.fx
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\res\Images\Menus\labelbox.tga
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\res\Sound\Wave Bank.xwb
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\res\Sound\WavTest.xap
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\res\Sound\WavTest.xgs
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\res\Sound\Win\WavTest.xgs
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\effects.xnb
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Menus\labelbox.xnb
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Fonts\eurostile.xnb
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\debris0.xnb
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\debris1.xnb
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\debris2.xnb
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\debris3.xnb
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\explosion.xnb
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\hoop.xnb
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Hud\bar.xnb
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Hud\cursor.xnb
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Hud\engine_tech.xnb
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Hud\factory_tech.xnb
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Hud\overcursor.xnb
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Hud\planetHud.xnb
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Hud\weapon_tech.xnb
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\icon.xnb
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Menus\a-button.xnb
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Menus\b-button.xnb
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Menus\backspace.xnb
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Menus\base.xnb
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Menus\controller.xnb
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Menus\defeatplanet.xnb
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Menus\defeattext.xnb
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Menus\getready.xnb
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Menus\keyboardA.xnb
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Menus\keyboardB.xnb
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Menus\labelboxalpha.xnb
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Menus\labelboxwhite.xnb
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Menus\left-arrow.xnb
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Menus\logo.xnb
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Menus\mouse.xnb
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Menus\right-arrow.xnb
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Menus\victoryplanet.xnb
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Menus\victorytext.xnb
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Planets\0.xnb
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Planets\1.xnb
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Planets\2.xnb
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Planets\3.xnb
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Planets\4.xnb
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Planets\5.xnb
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Planets\p2.xnb
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\smallexplosion.xnb
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Space\background0.xnb
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Space\background1.xnb
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Space\background2.xnb
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Sound\Derrota.xnb
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Sound\Escut.xnb
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Sound\Estadistiques.xnb
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Sound\Ingame 2.xnb
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Sound\Menu Principal 2.xnb
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Sound\Ok.xnb
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Sound\Option.xnb
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Sound\Planet Blast.xnb
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Sound\Take Off.xnb
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Sound\Victoria 2.xnb
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Fonts\Courier New.xnb
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Sound\WavTest.xgs
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Sound\Sound Bank.xsb
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\effects.fx
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Menus\labelbox.tga
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Sound\WavTest.xap
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Fonts\eurostile.png
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\debris0.png
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\debris1.png
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\debris2.png
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\debris3.png
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\explosion.png
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\hoop.png
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Hud\bar.png
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Hud\cursor.png
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Hud\engine_tech.png
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Hud\factory_tech.png
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Hud\overcursor.png
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Hud\planetHud.png
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Hud\weapon_tech.png
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\icon.bmp
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Menus\a-button.png
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Menus\b-button.png
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Menus\backspace.jpg
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Menus\base.jpg
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Menus\controller.png
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Menus\defeatplanet.png
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Menus\defeattext.png
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Menus\getready.png
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Menus\keyboardA.png
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Menus\keyboardB.png
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Menus\labelboxalpha.png
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Menus\labelboxwhite.png
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Menus\left-arrow.png
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Menus\logo.png
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Menus\mouse.png
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Menus\right-arrow.png
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Menus\victoryplanet.png
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Menus\victorytext.png
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Planets\0.jpg
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Planets\1.jpg
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Planets\2.jpg
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Planets\3.jpg
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Planets\4.jpg
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Planets\5.jpg
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Planets\p2.jpg
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\smallexplosion.png
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Space\background0.jpg
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Space\background1.jpg
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Images\Space\background2.jpg
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Sound\Derrota.wav
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Sound\Escut.wav
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Sound\Estadistiques.wav
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Sound\Ingame 2.wav
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Sound\Menu Principal 2.wav
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Sound\Ok.wav
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Sound\Option.wav
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Sound\Planet Blast.wav
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Sound\Take Off.wav
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Sound\Victoria 2.wav
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Wave Bank.xwb
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\ShipsWar-Windows.exe
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\ShipsWar-Windows.pdb
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\obj\x86\Debug\ShipsWar_Windows.Properties.Resources.resources
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\obj\x86\Debug\ShipsWar-Windows.csproj.GenerateResource.Cache
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Sound\Win\Sound Bank.xsb
+D:\Project\ShipsWar-Windows\ShipsWar-Windows\bin\x86\Debug\Content\res\Sound\Win\WavTest.xgs

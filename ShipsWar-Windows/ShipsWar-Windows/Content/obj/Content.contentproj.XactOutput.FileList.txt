@@ -1,0 +1,3 @@
+Content\res\Sound\WavTest.xgs
+Wave Bank.xwb
+Content\res\Sound\Sound Bank.xsb

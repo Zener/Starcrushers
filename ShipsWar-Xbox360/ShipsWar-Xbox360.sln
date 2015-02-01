@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C# Express 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShipsWar-Xbox360", "ShipsWar-Xbox360\ShipsWar-Xbox360.csproj", "{A8816FC2-C1A5-4AEB-BCDB-CA4CFDD504C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Xbox 360 = Debug|Xbox 360
+		Release|Xbox 360 = Release|Xbox 360
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8816FC2-C1A5-4AEB-BCDB-CA4CFDD504C3}.Debug|Xbox 360.ActiveCfg = Debug|Xbox 360
+		{A8816FC2-C1A5-4AEB-BCDB-CA4CFDD504C3}.Debug|Xbox 360.Build.0 = Debug|Xbox 360
+		{A8816FC2-C1A5-4AEB-BCDB-CA4CFDD504C3}.Debug|Xbox 360.Deploy.0 = Debug|Xbox 360
+		{A8816FC2-C1A5-4AEB-BCDB-CA4CFDD504C3}.Release|Xbox 360.ActiveCfg = Release|Xbox 360
+		{A8816FC2-C1A5-4AEB-BCDB-CA4CFDD504C3}.Release|Xbox 360.Build.0 = Release|Xbox 360
+		{A8816FC2-C1A5-4AEB-BCDB-CA4CFDD504C3}.Release|Xbox 360.Deploy.0 = Release|Xbox 360
+		{F8723CF7-9CCB-42FB-9FEE-0648F2BFB91B}.Debug|Xbox 360.ActiveCfg = Debug|Xbox 360
+		{F8723CF7-9CCB-42FB-9FEE-0648F2BFB91B}.Release|Xbox 360.ActiveCfg = Release|Xbox 360
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

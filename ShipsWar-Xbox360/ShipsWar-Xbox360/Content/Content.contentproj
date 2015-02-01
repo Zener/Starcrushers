@@ -1,0 +1,422 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="3.5">
+  <PropertyGroup>
+    <ProjectGuid>f8723cf7-9ccb-42fb-9fee-0648f2bfb91b</ProjectGuid>
+    <ProjectTypeGuids>{96E2B04D-8817-42c6-938A-82C39BA4D311};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">Xbox 360</Platform>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <XnaFrameworkVersion>v3.0</XnaFrameworkVersion>
+    <PlatformTarget>x86</PlatformTarget>
+    <OutputPath>bin\$(Platform)\$(Configuration)</OutputPath>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|Xbox 360' ">
+    <XnaPlatform>Xbox 360</XnaPlatform>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|Xbox 360' ">
+    <XnaPlatform>Xbox 360</XnaPlatform>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Xna.Framework.Content.Pipeline.EffectImporter, Version=3.0.0.0, Culture=neutral, PublicKeyToken=6d5c3888ef60e27d, processorArchitecture=MSIL">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Microsoft.Xna.Framework.Content.Pipeline.FBXImporter, Version=3.0.0.0, Culture=neutral, PublicKeyToken=6d5c3888ef60e27d, processorArchitecture=MSIL">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Microsoft.Xna.Framework.Content.Pipeline.TextureImporter, Version=3.0.0.0, Culture=neutral, PublicKeyToken=6d5c3888ef60e27d, processorArchitecture=MSIL">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Microsoft.Xna.Framework.Content.Pipeline.XImporter, Version=3.0.0.0, Culture=neutral, PublicKeyToken=6d5c3888ef60e27d, processorArchitecture=MSIL">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Microsoft.Xna.Framework.Content.Pipeline.AudioImporters, Version=3.0.0.0, Culture=neutral, PublicKeyToken=6d5c3888ef60e27d, processorArchitecture=MSIL">
+      <Private>False</Private>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="..\..\..\ShipsWar-Windows\ShipsWar-Windows\Content\res\effects.fx">
+      <Link>res\effects.fx</Link>
+      <Name>effects</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="..\..\..\ShipsWar-Windows\ShipsWar-Windows\Content\res\Fonts\Courier New.spritefont">
+      <Link>res\Fonts\Courier New.spritefont</Link>
+      <Name>Courier New</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="..\..\..\ShipsWar-Windows\ShipsWar-Windows\Content\res\Images\debris0.png">
+      <Link>res\Images\debris0.png</Link>
+      <Name>debris0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="..\..\..\ShipsWar-Windows\ShipsWar-Windows\Content\res\Images\debris1.png">
+      <Link>res\Images\debris1.png</Link>
+      <Name>debris1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="..\..\..\ShipsWar-Windows\ShipsWar-Windows\Content\res\Images\debris2.png">
+      <Link>res\Images\debris2.png</Link>
+      <Name>debris2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="..\..\..\ShipsWar-Windows\ShipsWar-Windows\Content\res\Images\debris3.png">
+      <Link>res\Images\debris3.png</Link>
+      <Name>debris3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="..\..\..\ShipsWar-Windows\ShipsWar-Windows\Content\res\Images\explosion.png">
+      <Link>res\Images\explosion.png</Link>
+      <Name>explosion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="..\..\..\ShipsWar-Windows\ShipsWar-Windows\Content\res\Images\hoop.png">
+      <Link>res\Images\hoop.png</Link>
+      <Name>hoop</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="..\..\..\ShipsWar-Windows\ShipsWar-Windows\Content\res\Images\icon.bmp">
+      <Link>res\Images\icon.bmp</Link>
+      <Name>icon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="..\..\..\ShipsWar-Windows\ShipsWar-Windows\Content\res\Images\smallexplosion.png">
+      <Link>res\Images\smallexplosion.png</Link>
+      <Name>smallexplosion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="..\..\..\ShipsWar-Windows\ShipsWar-Windows\Content\res\Images\Hud\bar.png">
+      <Link>res\Images\Hud\bar.png</Link>
+      <Name>bar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="..\..\..\ShipsWar-Windows\ShipsWar-Windows\Content\res\Images\Hud\cursor.png">
+      <Link>res\Images\Hud\cursor.png</Link>
+      <Name>cursor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="..\..\..\ShipsWar-Windows\ShipsWar-Windows\Content\res\Images\Hud\engine_tech.png">
+      <Link>res\Images\Hud\engine_tech.png</Link>
+      <Name>engine_tech</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="..\..\..\ShipsWar-Windows\ShipsWar-Windows\Content\res\Images\Hud\factory_tech.png">
+      <Link>res\Images\Hud\factory_tech.png</Link>
+      <Name>factory_tech</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="..\..\..\ShipsWar-Windows\ShipsWar-Windows\Content\res\Images\Hud\overcursor.png">
+      <Link>res\Images\Hud\overcursor.png</Link>
+      <Name>overcursor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="..\..\..\ShipsWar-Windows\ShipsWar-Windows\Content\res\Images\Hud\planetHud.png">
+      <Link>res\Images\Hud\planetHud.png</Link>
+      <Name>planetHud</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="..\..\..\ShipsWar-Windows\ShipsWar-Windows\Content\res\Images\Hud\weapon_tech.png">
+      <Link>res\Images\Hud\weapon_tech.png</Link>
+      <Name>weapon_tech</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="..\..\..\ShipsWar-Windows\ShipsWar-Windows\Content\res\Images\Menus\a-button.png">
+      <Link>res\Images\Menus\a-button.png</Link>
+      <Name>a-button</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="..\..\..\ShipsWar-Windows\ShipsWar-Windows\Content\res\Images\Menus\b-button.png">
+      <Link>res\Images\Menus\b-button.png</Link>
+      <Name>b-button</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="..\..\..\ShipsWar-Windows\ShipsWar-Windows\Content\res\Images\Menus\backspace.jpg">
+      <Link>res\Images\Menus\backspace.jpg</Link>
+      <Name>backspace</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="..\..\..\ShipsWar-Windows\ShipsWar-Windows\Content\res\Images\Menus\base.jpg">
+      <Link>res\Images\Menus\base.jpg</Link>
+      <Name>base</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="..\..\..\ShipsWar-Windows\ShipsWar-Windows\Content\res\Images\Menus\controller.png">
+      <Link>res\Images\Menus\controller.png</Link>
+      <Name>controller</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="..\..\..\ShipsWar-Windows\ShipsWar-Windows\Content\res\Images\Menus\defeatplanet.png">
+      <Link>res\Images\Menus\defeatplanet.png</Link>
+      <Name>defeatplanet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="..\..\..\ShipsWar-Windows\ShipsWar-Windows\Content\res\Images\Menus\defeattext.png">
+      <Link>res\Images\Menus\defeattext.png</Link>
+      <Name>defeattext</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="..\..\..\ShipsWar-Windows\ShipsWar-Windows\Content\res\Images\Menus\getready.png">
+      <Link>res\Images\Menus\getready.png</Link>
+      <Name>getready</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="..\..\..\ShipsWar-Windows\ShipsWar-Windows\Content\res\Images\Menus\keyboardA.png">
+      <Link>res\Images\Menus\keyboardA.png</Link>
+      <Name>keyboardA</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="..\..\..\ShipsWar-Windows\ShipsWar-Windows\Content\res\Images\Menus\keyboardB.png">
+      <Link>res\Images\Menus\keyboardB.png</Link>
+      <Name>keyboardB</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="..\..\..\ShipsWar-Windows\ShipsWar-Windows\Content\res\Images\Menus\labelboxalpha.png">
+      <Link>res\Images\Menus\labelboxalpha.png</Link>
+      <Name>labelboxalpha</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="..\..\..\ShipsWar-Windows\ShipsWar-Windows\Content\res\Images\Menus\labelboxwhite.png">
+      <Link>res\Images\Menus\labelboxwhite.png</Link>
+      <Name>labelboxwhite</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="..\..\..\ShipsWar-Windows\ShipsWar-Windows\Content\res\Images\Menus\left-arrow.png">
+      <Link>res\Images\Menus\left-arrow.png</Link>
+      <Name>left-arrow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="..\..\..\ShipsWar-Windows\ShipsWar-Windows\Content\res\Images\Menus\logo.png">
+      <Link>res\Images\Menus\logo.png</Link>
+      <Name>logo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="..\..\..\ShipsWar-Windows\ShipsWar-Windows\Content\res\Images\Menus\mouse.png">
+      <Link>res\Images\Menus\mouse.png</Link>
+      <Name>mouse</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="..\..\..\ShipsWar-Windows\ShipsWar-Windows\Content\res\Images\Menus\right-arrow.png">
+      <Link>res\Images\Menus\right-arrow.png</Link>
+      <Name>right-arrow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="..\..\..\ShipsWar-Windows\ShipsWar-Windows\Content\res\Images\Menus\victoryplanet.png">
+      <Link>res\Images\Menus\victoryplanet.png</Link>
+      <Name>victoryplanet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="..\..\..\ShipsWar-Windows\ShipsWar-Windows\Content\res\Images\Menus\victorytext.png">
+      <Link>res\Images\Menus\victorytext.png</Link>
+      <Name>victorytext</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="..\..\..\ShipsWar-Windows\ShipsWar-Windows\Content\res\Images\Menus\labelbox.tga">
+      <Link>res\Images\Menus\labelbox.tga</Link>
+      <Name>labelbox</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="..\..\..\ShipsWar-Windows\ShipsWar-Windows\Content\res\Images\Planets\0.jpg">
+      <Link>res\Images\Planets\0.jpg</Link>
+      <Name>0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="..\..\..\ShipsWar-Windows\ShipsWar-Windows\Content\res\Images\Planets\1.jpg">
+      <Link>res\Images\Planets\1.jpg</Link>
+      <Name>1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="..\..\..\ShipsWar-Windows\ShipsWar-Windows\Content\res\Images\Planets\2.jpg">
+      <Link>res\Images\Planets\2.jpg</Link>
+      <Name>2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="..\..\..\ShipsWar-Windows\ShipsWar-Windows\Content\res\Images\Planets\3.jpg">
+      <Link>res\Images\Planets\3.jpg</Link>
+      <Name>3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="..\..\..\ShipsWar-Windows\ShipsWar-Windows\Content\res\Images\Planets\4.jpg">
+      <Link>res\Images\Planets\4.jpg</Link>
+      <Name>4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="..\..\..\ShipsWar-Windows\ShipsWar-Windows\Content\res\Images\Planets\5.jpg">
+      <Link>res\Images\Planets\5.jpg</Link>
+      <Name>5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="..\..\..\ShipsWar-Windows\ShipsWar-Windows\Content\res\Images\Planets\p2.jpg">
+      <Link>res\Images\Planets\p2.jpg</Link>
+      <Name>p2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="..\..\..\ShipsWar-Windows\ShipsWar-Windows\Content\res\Images\Space\background0.jpg">
+      <Link>res\Images\Space\background0.jpg</Link>
+      <Name>background0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="..\..\..\ShipsWar-Windows\ShipsWar-Windows\Content\res\Images\Space\background1.jpg">
+      <Link>res\Images\Space\background1.jpg</Link>
+      <Name>background1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="..\..\..\ShipsWar-Windows\ShipsWar-Windows\Content\res\Images\Space\background2.jpg">
+      <Link>res\Images\Space\background2.jpg</Link>
+      <Name>background2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="..\..\..\ShipsWar-Windows\ShipsWar-Windows\Content\res\Sound\WavTest.xap">
+      <Link>res\Sound\WavTest.xap</Link>
+      <Name>WavTest</Name>
+      <Importer>XactImporter</Importer>
+      <Processor>XactProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="..\..\..\ShipsWar-Windows\ShipsWar-Windows\Content\res\Sound\Derrota.wav">
+      <Link>res\Sound\Derrota.wav</Link>
+      <Name>Derrota</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+    </Compile>
+    <Compile Include="..\..\..\ShipsWar-Windows\ShipsWar-Windows\Content\res\Sound\Escut.wav">
+      <Link>res\Sound\Escut.wav</Link>
+      <Name>Escut</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+    </Compile>
+    <Compile Include="..\..\..\ShipsWar-Windows\ShipsWar-Windows\Content\res\Sound\Estadistiques.wav">
+      <Link>res\Sound\Estadistiques.wav</Link>
+      <Name>Estadistiques</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+    </Compile>
+    <Compile Include="..\..\..\ShipsWar-Windows\ShipsWar-Windows\Content\res\Sound\Ingame 2.wav">
+      <Link>res\Sound\Ingame 2.wav</Link>
+      <Name>Ingame 2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+    </Compile>
+    <Compile Include="..\..\..\ShipsWar-Windows\ShipsWar-Windows\Content\res\Sound\Menu Principal 2.wav">
+      <Link>res\Sound\Menu Principal 2.wav</Link>
+      <Name>Menu Principal 2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+    </Compile>
+    <Compile Include="..\..\..\ShipsWar-Windows\ShipsWar-Windows\Content\res\Sound\Ok.wav">
+      <Link>res\Sound\Ok.wav</Link>
+      <Name>Ok</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+    </Compile>
+    <Compile Include="..\..\..\ShipsWar-Windows\ShipsWar-Windows\Content\res\Sound\Option.wav">
+      <Link>res\Sound\Option.wav</Link>
+      <Name>Option</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+    </Compile>
+    <Compile Include="..\..\..\ShipsWar-Windows\ShipsWar-Windows\Content\res\Sound\Planet Blast.wav">
+      <Link>res\Sound\Planet Blast.wav</Link>
+      <Name>Planet Blast</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+    </Compile>
+    <Compile Include="..\..\..\ShipsWar-Windows\ShipsWar-Windows\Content\res\Sound\Take Off.wav">
+      <Link>res\Sound\Take Off.wav</Link>
+      <Name>Take Off</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+    </Compile>
+    <Compile Include="..\..\..\ShipsWar-Windows\ShipsWar-Windows\Content\res\Sound\Victoria 2.wav">
+      <Link>res\Sound\Victoria 2.wav</Link>
+      <Name>Victoria 2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\..\..\ShipsWar-Windows\ShipsWar-Windows\Content\res\Sound\Win\Sound Bank.xsb">
+      <Link>res\Sound\Win\Sound Bank.xsb</Link>
+      <Name>Sound Bank</Name>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="..\..\..\ShipsWar-Windows\ShipsWar-Windows\Content\res\Sound\Win\WavTest.xgs">
+      <Link>res\Sound\Win\WavTest.xgs</Link>
+      <Name>WavTest</Name>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="res\Sound\Xbox\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\XNA Game Studio\v3.0\Microsoft.Xna.GameStudio.ContentPipeline.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

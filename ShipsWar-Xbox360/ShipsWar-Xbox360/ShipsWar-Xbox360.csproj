@@ -1,0 +1,182 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="3.5">
+  <PropertyGroup>
+    <ProjectGuid>{A8816FC2-C1A5-4AEB-BCDB-CA4CFDD504C3}</ProjectGuid>
+    <ProjectTypeGuids>{2DF5C3F4-5A5F-47a9-8E94-23B4456F55E2};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">Xbox 360</Platform>
+    <OutputType>Exe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ShipsWar_Xbox360</RootNamespace>
+    <AssemblyName>ShipsWar-Xbox360</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <XnaFrameworkVersion>v3.0</XnaFrameworkVersion>
+    <XnaPlatform>Xbox 360</XnaPlatform>
+    <XnaCrossPlatformGroupID>faa6dec5-1516-437c-a7f9-4028a868d2ac</XnaCrossPlatformGroupID>
+    <Thumbnail>GameThumbnail.png</Thumbnail>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|Xbox 360' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Xbox 360\Debug</OutputPath>
+    <DefineConstants>DEBUG;TRACE;XBOX;XBOX360</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoStdLib>true</NoStdLib>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <XnaCompressContent>true</XnaCompressContent>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|Xbox 360' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Xbox 360\Release</OutputPath>
+    <DefineConstants>TRACE;XBOX;XBOX360</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoStdLib>true</NoStdLib>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <XnaCompressContent>true</XnaCompressContent>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Xna.Framework">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Microsoft.Xna.Framework.Game">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="mscorlib">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Xml">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+      <Private>False</Private>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="..\..\ShipsWar-Windows\ShipsWar-Windows\Entity.cs">
+      <Link>Entity.cs</Link>
+    </Compile>
+    <Compile Include="..\..\ShipsWar-Windows\ShipsWar-Windows\Game1.cs">
+      <Link>Game1.cs</Link>
+    </Compile>
+    <Compile Include="..\..\ShipsWar-Windows\ShipsWar-Windows\GameHUD.cs">
+      <Link>GameHUD.cs</Link>
+    </Compile>
+    <Compile Include="..\..\ShipsWar-Windows\ShipsWar-Windows\GameStates\ConfigurePlayers.cs">
+      <Link>GameStates\ConfigurePlayers.cs</Link>
+    </Compile>
+    <Compile Include="..\..\ShipsWar-Windows\ShipsWar-Windows\GameStates\Credits.cs">
+      <Link>GameStates\Credits.cs</Link>
+    </Compile>
+    <Compile Include="..\..\ShipsWar-Windows\ShipsWar-Windows\GameStates\GameState.cs">
+      <Link>GameStates\GameState.cs</Link>
+    </Compile>
+    <Compile Include="..\..\ShipsWar-Windows\ShipsWar-Windows\GameStates\MainMenu.cs">
+      <Link>GameStates\MainMenu.cs</Link>
+    </Compile>
+    <Compile Include="..\..\ShipsWar-Windows\ShipsWar-Windows\GameStates\Options.cs">
+      <Link>GameStates\Options.cs</Link>
+    </Compile>
+    <Compile Include="..\..\ShipsWar-Windows\ShipsWar-Windows\GameStates\PauseMenu.cs">
+      <Link>GameStates\PauseMenu.cs</Link>
+    </Compile>
+    <Compile Include="..\..\ShipsWar-Windows\ShipsWar-Windows\GameStates\PopUp.cs">
+      <Link>GameStates\PopUp.cs</Link>
+    </Compile>
+    <Compile Include="..\..\ShipsWar-Windows\ShipsWar-Windows\GameStates\Results.cs">
+      <Link>GameStates\Results.cs</Link>
+    </Compile>
+    <Compile Include="..\..\ShipsWar-Windows\ShipsWar-Windows\GameStates\SelectPlayers.cs">
+      <Link>GameStates\SelectPlayers.cs</Link>
+    </Compile>
+    <Compile Include="..\..\ShipsWar-Windows\ShipsWar-Windows\GameStates\SelectUniverseSize.cs">
+      <Link>GameStates\SelectUniverseSize.cs</Link>
+    </Compile>
+    <Compile Include="..\..\ShipsWar-Windows\ShipsWar-Windows\GameStates\Splash.cs">
+      <Link>GameStates\Splash.cs</Link>
+    </Compile>
+    <Compile Include="..\..\ShipsWar-Windows\ShipsWar-Windows\GameStates\Status.cs">
+      <Link>GameStates\Status.cs</Link>
+    </Compile>
+    <Compile Include="..\..\ShipsWar-Windows\ShipsWar-Windows\GameStates\War.cs">
+      <Link>GameStates\War.cs</Link>
+    </Compile>
+    <Compile Include="..\..\ShipsWar-Windows\ShipsWar-Windows\GameVars.cs">
+      <Link>GameVars.cs</Link>
+    </Compile>
+    <Compile Include="..\..\ShipsWar-Windows\ShipsWar-Windows\Input.cs">
+      <Link>Input.cs</Link>
+    </Compile>
+    <Compile Include="..\..\ShipsWar-Windows\ShipsWar-Windows\MenuBackgroundRender.cs">
+      <Link>MenuBackgroundRender.cs</Link>
+    </Compile>
+    <Compile Include="..\..\ShipsWar-Windows\ShipsWar-Windows\Menus\ConfigScreen.cs">
+      <Link>Menus\ConfigScreen.cs</Link>
+    </Compile>
+    <Compile Include="..\..\ShipsWar-Windows\ShipsWar-Windows\Menus\Menu.cs">
+      <Link>Menus\Menu.cs</Link>
+    </Compile>
+    <Compile Include="..\..\ShipsWar-Windows\ShipsWar-Windows\Menus\TextScreen.cs">
+      <Link>Menus\TextScreen.cs</Link>
+    </Compile>
+    <Compile Include="..\..\ShipsWar-Windows\ShipsWar-Windows\Particle.cs">
+      <Link>Particle.cs</Link>
+    </Compile>
+    <Compile Include="..\..\ShipsWar-Windows\ShipsWar-Windows\Planet.cs">
+      <Link>Planet.cs</Link>
+    </Compile>
+    <Compile Include="..\..\ShipsWar-Windows\ShipsWar-Windows\Player.cs">
+      <Link>Player.cs</Link>
+    </Compile>
+    <Compile Include="..\..\ShipsWar-Windows\ShipsWar-Windows\Point3D.cs">
+      <Link>Point3D.cs</Link>
+    </Compile>
+    <Compile Include="..\..\ShipsWar-Windows\ShipsWar-Windows\Program.cs">
+      <Link>Program.cs</Link>
+    </Compile>
+    <Compile Include="..\..\ShipsWar-Windows\ShipsWar-Windows\Ship.cs">
+      <Link>Ship.cs</Link>
+    </Compile>
+    <Compile Include="..\..\ShipsWar-Windows\ShipsWar-Windows\SoundManager.cs">
+      <Link>SoundManager.cs</Link>
+    </Compile>
+    <Compile Include="..\..\ShipsWar-Windows\ShipsWar-Windows\Statistics.cs">
+      <Link>Statistics.cs</Link>
+    </Compile>
+    <Compile Include="..\..\ShipsWar-Windows\ShipsWar-Windows\Universe.cs">
+      <Link>Universe.cs</Link>
+    </Compile>
+    <Compile Include="..\..\ShipsWar-Windows\ShipsWar-Windows\Util.cs">
+      <Link>Util.cs</Link>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="GameThumbnail.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <NestedContentProject Include="Content\Content.contentproj">
+      <Project>f8723cf7-9ccb-42fb-9fee-0648f2bfb91b</Project>
+      <Visible>False</Visible>
+    </NestedContentProject>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\XNA Game Studio\Microsoft.Xna.GameStudio.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
